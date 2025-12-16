@@ -1,5 +1,3 @@
-<h1 align="center">Hello 👋, I'm Vit</h1>
-<h3 align="center">A new student to the coding community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitmajestyyy&label=Profile%20views&color=0e75b6&style=flat" alt="vitmajestyyy" /> </p>
 
